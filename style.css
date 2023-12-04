@@ -1,0 +1,126 @@
+.button{
+    background-color: red;
+    border-style: groove;
+    border:#2145d5 6px dashed;
+    text-align: center;
+    margin-left: 260px;
+    border-radius: 10px;
+    font-size: 50px;
+    color:aqua;
+    margin: 30px 30px 30px 30px;
+}
+
+a{
+    color:rgb(46, 156, 240);
+}
+
+h1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color:rgb(234, 8, 237);
+}
+
+h2{
+    text-align: center;
+    color:chartreuse;
+    font-size:xx-large;
+}
+
+.p2{
+    font-size: xx-large;
+    color:chartreuse;
+    border: rgb(240, 38, 38) 5px dashed;
+    width: fit-content;
+    padding: 20px 15px;
+    overflow: scroll;
+    text-align: center;
+    top: 20px;
+}
+
+.p3{
+    font-size: x-large;
+    color:aqua;
+    font-weight: 200;
+    width:fit-content;
+}
+
+.background{
+    background-color:cornflowerblue;
+}
+
+.background2{
+    background-color:blue;
+}
+
+.background3{
+    background-color:rgb(10, 200, 10);
+}
+
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+  }
+  
+  .afc{
+    color: #dc1919;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .nfc{
+    color: #2145d5;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  tr {
+    background: #3deff2;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+  }
+  
+  th, td {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 20px;
+    text-align: left;
+    width: 33.3333%;
+  }
+
+  .background4{
+    background-color:beige;
+  }
+
+  li{
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(236, 120, 17);
+    text-align: left;
+    margin-right: 250px;
+    padding:20px 20px;
+  }
+
+  hr{
+    border-color:rgb(17, 199, 215);
+    border-radius: 10px;
+    border-style:double;
+  }
+
+  .footballpics{
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+ 
+ 
